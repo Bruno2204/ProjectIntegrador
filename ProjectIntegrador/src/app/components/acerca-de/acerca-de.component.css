@@ -1,0 +1,12 @@
+.row{
+    margin: 0;
+    padding: 10px;
+}
+div{
+    text-align: center;
+    background-color:mediumpurple;
+}
+img{
+    border-radius: 100%;
+    border: 3px solid blue;
+}
