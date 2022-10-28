@@ -1,0 +1,9 @@
+.row{
+    margin: 0px;
+    padding: 20px;
+    background-color: #8c2a70;
+}
+.container-info, .container-image{
+    display: inline-block;
+    text-align: justify;
+}
